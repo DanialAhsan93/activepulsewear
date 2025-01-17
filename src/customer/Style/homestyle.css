@@ -1,0 +1,96 @@
+@media (min-width: 1440px) {
+  .main-section{
+    height: 500px;
+  }
+  .hero{
+    width: 1400px;
+    height: 400px;
+  }
+  .corousel-title{
+    font-size: 70px;
+  }
+  .corousel-desc{
+    font-size: 41px
+  }
+}
+
+@media (min-width: 1640px) {
+  .main-section{
+    height: 550px;
+  }
+  .hero{
+    width: 1500px;
+    height: 450px;
+  }
+  .corousel-title{
+    font-size: 90px;
+  }
+  .corousel-desc{
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 2140px) {
+  .main-section{
+    height: 1000px;
+  }
+  .hero{
+    width: 2400px;
+    height: 900px;
+  }
+  .corousel-title{
+    font-size: 150px;
+  }
+  .corousel-desc{
+    font-size: 90px;
+  }
+}
+
+@media (min-width: 2640px) {
+  .main-section{
+    height: 1000px;
+  }
+  .hero{
+    width: 2400px;
+    height: 900px;
+  }
+  .corousel-title{
+    font-size: 120px;
+  }
+  .corousel-desc{
+    font-size: 70px;
+  }
+}
+
+
+@media (min-width: 4040px) {
+  .main-section{
+    height: 1400px;
+  }
+  .hero{
+    width: 3600px;
+    height: 1200px;
+  }
+  .corousel-title{
+    font-size: 200px;
+  }
+  .corousel-desc{
+    font-size: 115px;
+  }
+}
+
+@media (min-width: 4240px) {
+  .main-section{
+    height: 1900px;
+  }
+  .hero{
+    width: 5000px;
+    height: 1700px;
+  }
+  .corousel-title{
+    font-size: 240px;
+  }
+  .corousel-desc{
+    font-size: 150px;
+  }
+}
